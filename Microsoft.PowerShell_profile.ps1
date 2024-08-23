@@ -1,4 +1,4 @@
-
+oh-my-posh init pwsh | Invoke-Expression
 
 if ($env:PSModulePath -notcontains [System.IO.Path]::Combine($env:USERPROFILE,
  'Documents', 'WindowsPowerShell', 'Modules')
