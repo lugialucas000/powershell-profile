@@ -2,7 +2,17 @@
 
 A stylish and functional PowerShell profile that looks and feels almost as good as a Linux terminal.
 
-## 🛠️ Fix the Missing Font
+## How to install this setup 
+
+- cd into directory installed file
+
+-  use Following command to setup on windows system(NOTE:you have run as admin)
+```
+.\setup.ps1
+```
+- After few minutes setup finished if you can edit on  Microsoft.PowerShell_profile.ps1 to make changes
+
+### 🛠️ Fix the Missing Font
 
 After running the script, you'll have two options for installing a font patched to support icons in PowerShell:
 
@@ -32,3 +42,6 @@ PS> oh-my-posh font install
     ↑/k up • ↓/j down • q quit • ? more</pre>
 3. With the up/down arrow keys, select the font you would like to install and press <kbd>ENTER</kbd>
 4. DONE!
+###Note(Important)
+
+this is my first good repository so give me feedback how to improve.also,code is bad so use at your risk
