@@ -1,4 +1,4 @@
-# 🎨 PowerShell Profile (Pretty PowerShell)-Lugialucas
+# 🎨 PowerShell Profile (Pretty PowerShell)- Lugialucas000
 
 A stylish and functional PowerShell profile that looks and feels almost as good as a Linux terminal.
 
