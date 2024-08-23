@@ -42,6 +42,6 @@ PS> oh-my-posh font install
     ↑/k up • ↓/j down • q quit • ? more</pre>
 3. With the up/down arrow keys, select the font you would like to install and press <kbd>ENTER</kbd>
 4. DONE!
-###Note(Important)
+### Note(Important)
 
 this is my first good repository so give me feedback how to improve.also,code is bad so use at your risk
